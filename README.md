@@ -1,12 +1,7 @@
 ## App Built on top of this Starter project [IDURAR ERP/CRM](https://github.com/idurar/erp-crm)
 IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-GitHub Repository : [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 <br/>
 
-**⭐️ Demo Open Source Version** : [https://opensource.idurarapp.com](https://opensource.idurarapp.com)
-<br/>
-**🚀 Cloud Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
-<br/>
 #
 [![
 IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/idurar/idurar-erp-crm)
@@ -31,8 +26,6 @@ Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
 ## Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
 
 Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
-
-**Live App Demo** : [https://www.idurarapp.com](https://www.idurarapp.com)
 
 
 ## Setup backend
@@ -80,9 +73,4 @@ Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD
 #
 ```
 
-<br/>
-
-**⭐️ Demo Open Source Version** : [https://opensource.idurarapp.com](https://opensource.idurarapp.com)
-<br/>
-**🚀 Cloud Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
 <br/>
